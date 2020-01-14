@@ -1,3 +1,14 @@
 body {
     font-family: "Helvetica", "Arial", "Sans-Serif";
 }
+
+p {
+  margin-bottom: 0.5em;
+  max-width: 40em;
+  text-align: justify;
+}
+
+p + p {
+  text-indent: 1.5em;
+  margin-top: 0
+}
