@@ -28,7 +28,7 @@ Odpowiedziała długa cisza.  I wreszcie:
 
 --- Dobrze, nie musisz mówić, nie musisz kłamać.
 
---- Nie, poczekaj.  Muszę pomyśleć o czymś poważnym... --- A. zbiera się w sobie, widać że bardzo chce okiełznać swoje ciało, aby robiło to, co komenderuje rozum. --- Na życie naszych dzieci przysięgam, że od kiedy jesteśmy razem, nie uprawiałam seksu i nie całowałem się z nikim oprócz ciebie.
+--- Nie, poczekaj.  Muszę pomyśleć o czymś poważnym... --- A. zbiera się w sobie, widać że bardzo chce okiełznać swoje ciało, aby robiło to, co komenderuje rozum. --- Na życie naszych dzieci przysięgam, że od kiedy jesteśmy razem, nie uprawiałam seksu i nie całowałam się z nikim oprócz ciebie.
 
 Wydaje się, że ulżyło nam obojgu.  Jednak czy na pewno?  Po chwili A. dodaje:
 
