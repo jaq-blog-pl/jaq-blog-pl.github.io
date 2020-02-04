@@ -17,11 +17,11 @@ Czy jest lepiej czy jest źlej?
                             2020
       January               February               March          
 Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
-          r1  g2  g3  n4                     n1   n1  n2  n3  n4  n5  n6  n7  
- n5  g6  r7  r8  R9 Y10 g11   n2  n3  n4  n5  n6  n7  n8   n8  n9 n10 n11 n12 n13 n14  
+          r1  g2  g3  n4                     G1   n1  n2  n3  n4  n5  n6  n7
+ n5  g6  r7  r8  R9 Y10 g11   g2  n3  n4  n5  n6  n7  n8   n8  n9 n10 n11 n12 n13 n14
 g12 R13 n14 r15 R16 n17 n18   n9 n10 n11 n12 n13 n14 n15  n15 n16 n17 n18 n19 n20 n21  
 n19 g20 n21 g22 G23 n24 g25  n16 n17 n18 n19 n20 n21 n22  n22 n23 n24 n25 n26 n27 n28  
-g26 r27 g28 r29 n30 n31     n23 n24 n25 n26 n27 n28 n29  n29 n30 n31              
+g26 r27 g28 r29 r30 r31     n23 n24 n25 n26 n27 n28 n29  n29 n30 n31
                                                                   
 
        April                  May                   June          
