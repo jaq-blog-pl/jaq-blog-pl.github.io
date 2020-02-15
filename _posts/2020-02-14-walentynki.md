@@ -4,7 +4,7 @@ title: "Bliskość"
 date: 2020-02-15
 ---
 
-![Ciasteczko](images/amerykanskie_swieto.webp)
+![Ciasteczko](/images/amerykanskie_swieto.webp)
 
 Dziś (choć to już wczoraj) wieczór poszliśmy wcześniej do łóżka. Zazwyczaj przeszkadzają nam różne rzeczy: obowiązki, które zajmują myśli. Wczesne wstawanie w powszedni dzień. Dzieci, które do późna w noc czytają książki, a z czasem wcale nie zaczną zasypiać wcześniej. Zmęczenie robotą na etat. Zbyt poźno zjedzona obfita obiadokolacja. Okres. Zbyt poważne rozmowy. Niesnaski wśród dzieci, rodziców czy rodzeństwa. Kłopoty ze zdrowiem. Zbyt wcześnie wypity alkohol. Zimno bądź gorąc. Listę można ciągnąć. Dziś jesteśmy w środku urlopu, żadna z tych spraw nie przeszkadza nam. Z rana odwiedziliśmy bardzo przyjemną kafejkę. Wieczorem jesteśmy dobrze najedzeni, wypoczęci, dzieci dopieszczone i radosne, rodzina ciepła, napiliśmy się dobrego wina, kończy się dzień zakochanych, wydawałoby się: doskonały przepis na uprawę miłości --- dopełnienie tego dobrego, co kwitnie między nami.
 
