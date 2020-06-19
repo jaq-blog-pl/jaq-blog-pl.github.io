@@ -30,7 +30,7 @@ ig26 r27 ig28 r29 r30 ir31     g23 r24 g25 n26 n27 n28 n29  n29 n30 n31
 Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
           n1  n2  n3  n4                  n1  G2      n1  G2  n3  n4  n5  g6
  Y5  n6  g7  n8  n9 r10 y11   g3  g4  n5  n6  n7  n8  n9   g7  g8  n9 n10 n11 n12 n13
-g12 r13 r14 g15 g16 r17 R18  n10 n11 n12 n13 n14 G15 Y16  n14 n15 n16 n17 n18 n19 n20
+g12 r13 r14 g15 g16 r17 R18  n10 n11 n12 n13 n14 G15 Y16  n14 G15 n16 R17 G18 n19 n20
 R19 n20 r21 g22 r23 r24 n25  n17 g18 y19 n20 n21 n22 n23  n21 n22 n23 n24 n25 n26 n27
 n26 r27 r28 r29 R30        n24 n25 i26 n27 n28 n29 g30  n28 n29 n30
                       n31
